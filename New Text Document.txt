@@ -1,4 +1,3 @@
 Hello world
 My name is Ricky
-King
-Kong
+
